@@ -10,9 +10,8 @@ Quarta modifica
 
 Quinta modifica
 
-<<<<<<< HEAD
 Sesta modifica sul master
-=======
+
 Inizio del ramo
 
 Altra modifica del ramo
@@ -20,6 +19,6 @@ Altra modifica del ramo
 Sesta modifica
 
 Siamo su un ramo?
->>>>>>> ramo
+
 
 Matteo Bassi
